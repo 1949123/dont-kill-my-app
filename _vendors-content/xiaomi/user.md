@@ -1,65 +1,65 @@
 ---
-manufacturer: 
-    - xiaomi
+制造商：
+-小米
 
 ---
 
-### App pinning / App locking
+###应用固定/应用锁定
 
-When you open the recent apps tray, drag your app downwards (it will be locked). Locked/pinned apps will gain further protection and not be cleared from the background, even if you clear recent apps. Drag downwards again to clear your app from the background. <br>
-On some phones, you need to long-press Your app and then choose the padlock icon from the menu:
+打开最近应用程序托盘时，向下拖动应用程序(将被锁定)。 即使清除最近应用程序，锁定/固定的应用程序也将获得进一步保护且不会从后台清除。 再次向下拖动以从背景中清除应用程序。 <溴>
+在某些手机上，您需要长按您的应用程序，然后从菜单中选择挂锁图标：
 
-<div class="img-block">
-  <img src="/assets/img/xiaomi/locking.jpg">
+<div班级="img-block">
+<IMGsrc="/assets/img/xiaomi/locking.jpg">
 </div>
 
-Another method of app locking is hidden a little deeper:
+另一种应用程序锁定方法隐藏得更深：
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_1.jpg">
-    <figcaption>Open Security app → Boost speed</figcaption>
-  </figure>
+<div班级="img-block">
+<数字>
+<IMGsrc="/assets/img/xiaomi/xiaomi_lock_1.JPG">
+    <figcaption>打开安全应用→提升速度</figcaption>
+</数字>
 
-  <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_2.jpg">
-    <figcaption>Open the Settings cog icon</figcaption>
-  </figure>
+<数字>
+<IMGsrc="/assets/img/xiaomi/xiaomi_lock_2。JPG">
+    <figcaption>打开设置轮齿图标</figcaption>
+</数字>
 
-  <figure>
-    <img src="/assets/img/xiaomi/xiaomi_lock_3.jpg">
-    <figcaption>Go to Lock apps and pick your app</figcaption>
-  </figure>
-
-</div>
-
-
-
-### Autostart permission
-
-On MIUI 14, there is a new permission to start from the background for each app, in *Settings > Apps > Your app > App permissions > Background autostart*.
-
-<div class="img-block">
-  <img src="/assets/img/xiaomi/miui14_autostart.png">
-
-</div>
-
-### Boost speed
-
-If the app is locked here in this "Boost speed" feature, it may be spared by *Ultra battery saver*. 
-
-<div class="img-block">
-  <img src="/assets/img/xiaomi/xiaomi_booster.jpg">
-  <img src="/assets/img/xiaomi/xiaomi_booster_2.jpg">
-  <img src="/assets/img/xiaomi/xiaomi_booster_3.jpg">
+<数字>
+<IMGsrc="/assets/img/xiaomi/xiaomi_lock_3。JPG">
+    <figcaption>进入锁定应用程序并选择您的应用程序</figcaption>
+</数字>
 
 </div>
 
 
 
-### MIUI Optimizations
+###自动启动权限
 
-MIUI Optimizations were reported on MIUI 12 so far, but this option may be present on older versions too (let us know, if you have found this option on your phone). It is hidden in the Developers settings, so you need to switch to developer mode first (10x tap on MIUI version in About phone). As with all "optimizations", the MIUI optimizations can break the background tasks.
+在MIUI14上，每个应用程序都有从后台启动的新权限，*设置-应用-您的应用-应用权限-后台自动启动*.
+
+<div班级="img-block">
+<IMGsrc="/assets/img/xiaomi/miui14_autostart。PNG">
+
+</div>
+
+###增压速度
+
+如果应用程序在此“加速”功能中被锁定，则可通过*超级省电器*.
+
+<div班级="img-block">
+<IMGsrc="/assets/img/xiaomi/xiaomi_superator。JPG">
+<IMGsrc="/assets/img/xiaomi/xiaomi_super_2。JPG">
+<IMGsrc="/assets/img/xiaomi/xiaomi_super_3。JPG">
+
+</div>
+
+
+
+###MIUI优化
+
+到目前为止，已在MIUI12上报告了MIUI优化，但旧版本上也可能存在此选项(如果您在手机上找到此选项，请告知我们)。它隐藏在开发者设置中，因此您需要首先切换到开发者模式(在关于手机中点击10次MIUI版本)。与所有“优化”一样，MIUI优化可以中断后台任务。
 
 <div class="img-block">
   <img src="/assets/img/xiaomi/miui_optimization_1.jpg">
